@@ -7,4 +7,4 @@ COURSE=linux
 
 echo "I love $COURSE"
 
-echo "Today is `date`"
+echo "Today is `date`" #note here its the back commas above tab `	
