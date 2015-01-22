@@ -1,0 +1,10 @@
+
+clear
+
+echo "This is a script"
+
+COURSE=linux
+
+echo "I love $COURSE"
+
+echo "Today is `date`"

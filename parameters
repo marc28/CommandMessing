@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo Argument 1: $1 
+echo Argument 2: $2
+echo Argument 3: $3
+
+echo \$ $$ Pid of the script
+echo \# $# Pid of the script
+echo \? $? Pid of the script
+echo \* $* Pid of the script
+
+
